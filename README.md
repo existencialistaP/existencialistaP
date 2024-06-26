@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OExistencialista
-- 👀 I’m interested in low level langs
+- 👀 I’m interested in low level
 - 🌱 I’m currently learning ZIG!!!
 - 📫 How to reach me -> email: pedroferreiravalle@gmail.com
 - 😄 Pronouns: he/him
