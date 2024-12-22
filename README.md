@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Pedro, aka Existen, and I'm a FullStack dev</p>
+<p align="left">My name is Pedro, aka Existen, and I'm a dev</p>
 
 ###
 
@@ -65,15 +65,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="40" alt="microsoftsqlserver logo"  />
 </div>
 
-###
-
-<div align="left">
-  <a href="https://open.spotify.com/user/Exitencisalista">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31zluwzyjgefz6n3mnbr57xxdrru&unique={true|1|on|yes}" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/OExistencialista/count.svg?"  />
