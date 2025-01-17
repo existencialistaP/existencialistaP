@@ -14,8 +14,6 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 45^2 -2<br>📚 I'm currently learning how to use linux<br>🎯 Goals: dont break production<br>🎲 Fun fact: im not funny</p>
-
 ###
 
 <div align="center">
