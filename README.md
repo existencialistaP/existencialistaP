@@ -12,9 +12,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=existencialistaP&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=existencialistaP&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=existencialistaP&show_icons=true&theme=onedark&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=existencialistaP&layout=compact&theme=onedark&hide_border=true" height="150" />
 </div>
+
 
 ###
 
@@ -25,6 +26,14 @@
 </div>
 
 ###
+<h2 align="center">🛠 Tools & Technologies</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Editor-Neovim-blue?style=for-the-badge&logo=neovim" />
+  <img src="https://img.shields.io/badge/Shell-Fish-informational?style=for-the-badge&logo=gnu-bash" />
+  <img src="https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/IDE-IntelliJ%20IDEA-blue?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+
+</p>
 
 
 
